@@ -1,5 +1,5 @@
 # HW/SW-RAG
 
-###Repository for project details for Project for HW/SW Lab-2!
+### Repository for project details for Project for HW/SW Lab-2!
 
-####Team Members - Ghea Suyono, Abhishek Singh, Rishi Mullur
+#### Team Members - Ghea Suyono, Abhishek Singh, Rishi Mullur
