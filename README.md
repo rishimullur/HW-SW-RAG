@@ -1,6 +1,6 @@
 # HW/SW-RAG
 
-### Repository for project details for Project for HW/SW Lab-2!
+### Repository for project details for Fuel Load Data Capturer in collaboration with Allen Institute for AI - For usage in forest environments to gather data on wildfire fuel estimations.
 
 #### Team Members - Ghea Suyono, Abhishek Singh, Rishi Mullur
 
@@ -39,3 +39,4 @@ With the virtual environment activated, you can install the RPLidar library usin
 ```bash
 pip install rplidar-roboticia
 ```
+Other additional modules and libraries required can be found in requirements.txt
