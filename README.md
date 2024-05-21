@@ -1,4 +1,4 @@
-# HW/SW-RAG
+# WildBioScan
 
 ### Repository for project details for Fuel Load Data Capturer in collaboration with Allen Institute for AI - For usage in forest environments to gather data on wildfire fuel estimations.
 
