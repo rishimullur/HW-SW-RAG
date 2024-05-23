@@ -1,4 +1,4 @@
-## Author: Rishi, Ghea & Abhisekh
+## Author: Rishi, Ghea & Abhishek
 ## Originally written and named as wildbioscan5.py
 ## Improvements over earlier versions - On image capture all other sensor data is captured
 
