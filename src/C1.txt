@@ -1,0 +1,10 @@
+For the C1 lidar we need to use THE RPLIDAR SDK - https://github.com/Slamtec/rplidar_sdk
+
+##Running the C1 with the C++ SDK [Assuming the rplidar is installed and files are build]  
+
+1. Navigate to ~/rplidar_sdk/output/Linux/Release
+2.⁠ ⁠Run either of the demo apps
+3.⁠ ⁠⁠Default baud rate is currently 460800 (refer datashet)
+4.⁠ ⁠⁠Command for simple grabber which prints a visual of a single rotation:
+
+./simple_grabber —channel —serial /dev/ttyUSB0 460800
